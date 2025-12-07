@@ -1,0 +1,17 @@
+﻿using Tyuiu.VitovskayaAN.Sprint6.Task0.V14.Lib;
+namespace Tyuiu.VitovskayaAN.Sprint6.Task0.V14.Test
+{
+    [TestClass]
+    public sealed class DataServiceTest
+    {
+        [TestMethod]
+        public void Checked()
+        {
+            DataService ds = new DataService();
+            int x = 3;
+            double res = ds.Calculate(x);
+            double wait = -0.444;
+            Assert.AreEqual(res, wait);
+        }
+    }
+}
