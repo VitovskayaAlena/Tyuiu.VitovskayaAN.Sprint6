@@ -16,10 +16,14 @@ namespace Tyuiu.VitovskayaAN.Sprint6.Task6.V9
         {
             InitializeComponent();
         }
-        private void buttonClose_VAN_Click (object sender, EventArgs e)
+        private void buttonClose_VAN_Click(object sender, EventArgs e)
         {
             this.Close();
         }
 
+        private void labelInfo_VAN_Click(object sender, EventArgs e)
+        {
+
+        }
     }
 }
