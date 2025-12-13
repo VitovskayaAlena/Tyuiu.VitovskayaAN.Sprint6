@@ -203,13 +203,13 @@
             dataGridViewVivod_VAN.AutoSizeColumnsMode = DataGridViewAutoSizeColumnsMode.Fill;
             dataGridViewVivod_VAN.ColumnHeadersHeightSizeMode = DataGridViewColumnHeadersHeightSizeMode.AutoSize;
             dataGridViewVivod_VAN.ColumnHeadersVisible = false;
-            dataGridViewVivod_VAN.Location = new Point(3, 38);
+            dataGridViewVivod_VAN.Location = new Point(-3, 38);
             dataGridViewVivod_VAN.Name = "dataGridViewVivod_VAN";
             dataGridViewVivod_VAN.ReadOnly = true;
             dataGridViewVivod_VAN.RowHeadersVisible = false;
             dataGridViewVivod_VAN.RowHeadersWidth = 82;
             dataGridViewVivod_VAN.ScrollBars = ScrollBars.None;
-            dataGridViewVivod_VAN.Size = new Size(953, 698);
+            dataGridViewVivod_VAN.Size = new Size(965, 680);
             dataGridViewVivod_VAN.TabIndex = 0;
             // 
             // panelVivod_VAN

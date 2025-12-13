@@ -62,6 +62,7 @@
             MaximizeBox = false;
             MinimizeBox = false;
             Name = "FormAbout";
+            StartPosition = FormStartPosition.CenterScreen;
             Text = "О программе";
             ResumeLayout(false);
             PerformLayout();

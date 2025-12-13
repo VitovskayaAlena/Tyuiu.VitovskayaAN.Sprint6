@@ -58,8 +58,8 @@ namespace Tyuiu.VitovskayaAN.Sprint6.Task7.V11
 
             for (int h = 0; h < columns; h++)
             {
-                dataGridViewVvod_VAN.Columns[h].Width = 30;
-                dataGridViewVivod_VAN.Columns[h].Width = 30;
+                dataGridViewVvod_VAN.Columns[h].Width = 70;
+                dataGridViewVivod_VAN.Columns[h].Width = 70;
             }
 
             for (int i = 0; i < rows; i++)
